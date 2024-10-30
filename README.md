@@ -2,7 +2,7 @@
 ## 環境構築
 Dockerビルド
 1. git clone git@github.com:ami524/contact-form-test.git
-2. docker-compose up -d -build
+2. docker-compose up -d --build
 * MySQLは、OSによって起動しない場合があるので各々PCに合わせてdocker-compose.ymlファイルを編集してください。
 
 Laravel環境構築
