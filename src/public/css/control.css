@@ -1,0 +1,105 @@
+.control__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 2000px;
+}
+
+.control__heading {
+    margin-bottom: 40px;
+    text-align: center;
+    color: #8B7969
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.form {
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.form-inner {
+    font-size: 10px;
+}
+
+input {
+    height: 50px;
+    margin: 0 5px;
+    color: #8B7969;
+}
+
+select {
+    height: 50px;
+    margin: 0 5px;
+    color: #8B7969;
+}
+
+.form__text {
+    width: 300px;
+    text-align: center;
+    border: 1px solid #E3DED9;
+}
+
+.form__gender {
+    width: 70px;
+    text-align: center;
+    background-color: #F4f4f4;
+    border: 1px solid #E3DED9;
+
+    appearance: none;
+}
+
+.form__category {
+    width: 150px;
+    text-align: center;
+    background-color: #f4f4f4;
+    border: 1px solid #E3DED9;
+
+    appearance: none;
+}
+
+.form__date {
+    width: 120px;
+    text-align: center;
+    background-color: #f4f4f4;
+    border: 1px solid #E3DED9;
+
+    appearance: none;
+}
+
+.form__submit {
+    width: 80px;
+    height: 50px;
+    border: none;
+    background: #8B7969;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form__reset {
+    width: 80px;
+    height: 50px;
+    border: none;
+    background: #D9C6B5;
+    color: #fff;
+    cursor: pointer;
+}
+
+.control__table table {
+    margin: 20px auto 10px;
+    background-color: #8B7969;
+    color: #fff;
+    height: 40px;
+    width: 850px;
+}
+
+.control__table-inner {
+    empty-cells: show;
+}
+
+.control__table-inner tr {
+    border-bottom: 1px #e0dfde;
+}
